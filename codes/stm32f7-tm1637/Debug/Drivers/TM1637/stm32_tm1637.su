@@ -1,0 +1,12 @@
+stm32_tm1637.c:37:6:tm1637Init	40	static
+stm32_tm1637.c:53:6:tm1637DisplayDecimal	32	static
+stm32_tm1637.c:83:6:tm1637SetBrightness	16	static
+stm32_tm1637.c:96:6:_tm1637Start	8	static
+stm32_tm1637.c:104:6:_tm1637Stop	8	static
+stm32_tm1637.c:115:6:_tm1637ReadResult	8	static
+stm32_tm1637.c:125:6:_tm1637WriteByte	24	static
+stm32_tm1637.c:142:6:_tm1637DelayUsec	24	static,ignoring_inline_asm
+stm32_tm1637.c:151:6:_tm1637ClkHigh	8	static
+stm32_tm1637.c:156:6:_tm1637ClkLow	8	static
+stm32_tm1637.c:161:6:_tm1637DioHigh	8	static
+stm32_tm1637.c:166:6:_tm1637DioLow	8	static
